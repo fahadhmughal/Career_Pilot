@@ -1,0 +1,33 @@
+# Environment and secrets
+.env
+.env.local
+credentials.json
+service-account.json
+service_account.json
+token.json
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Uploaded resumes (personal data, shouldn't be in repo)
+*.pdf
+*.docx
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
