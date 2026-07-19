@@ -31,3 +31,6 @@ Thumbs.db
 
 # Logs
 *.log
+*.b64
+.streamlit/secrets.toml
+debug_search.py

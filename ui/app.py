@@ -1,10 +1,12 @@
-import hashlib
 import sys
 import os
-from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
+from config.decode_secrets import write_secret_files
+write_secret_files()
+
+import hashlib
 from pathlib import Path
 
 import streamlit as st
