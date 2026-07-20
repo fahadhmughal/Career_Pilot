@@ -264,9 +264,9 @@ Tests cover a normal successful run, empty search results, malformed extraction 
 Screenshots are stored in the `screenshots/` folder and referenced below.
 
 ![Career pilot](screenshots/Home-Page.png)
-![Job review screen](screenshots/job-review.png)
-![Email draft screen](screenshots/email-draft.png)
-![Application sent confirmation](screenshots/send-confirmation.png)
+![Job review screen](screenshots/Job-Review.png)
+![Email draft screen](screenshots/Email-Draft.png)
+![Application sent confirmation](screenshots/Application-Sent.png)
 
 ---
 
